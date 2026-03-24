@@ -2,6 +2,7 @@
 // Format: "studentName_petName.jpg"
 const petImages = [
   "sam_lady-cat.jpg",
+  "tracy_my-minions.jpg",
   // add your pet file(s) name below this line with a comma at the end:
 ];
 
